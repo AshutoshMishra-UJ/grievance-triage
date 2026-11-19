@@ -199,7 +199,7 @@ docker run -d \
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/AnkurSingh10/grievance-triage.git
+git clone https://github.com/AshutoshMishra-UJ/grievance-triage.git
 cd grievance-triage
 
 # 2. Create virtual environment
@@ -224,4 +224,4 @@ streamlit run streamlit_app.py
 ---
 
 ## 👥 Authors & Contributors
-- **Ankur Singh** — *Lead Developer & Architect* — [GitHub](https://github.com/AnkurSingh10)
+- **Ashutosh Mishra** — *Lead Developer & Maintainer* — [GitHub](https://github.com/AshutoshMishra-UJ)
